@@ -13,9 +13,10 @@ Before you get started, make sure you have the following installed on your machi
 To get started with the project, follow these steps:
    - 1.	Clone the repository to your local machine:
    - 2.	Open the project in Eclipse IDE.
-   - 3.	Ensure that the required dependencies are resolved by running Maven's clean and install goals
+   - 3.	Ensure that the required dependencies are resolved by running Maven update project
    - 4.  Open the TestRunner.java class located at src/test/java/runner/TestRunner.java 
    - 5.	Right-click on the class and select "Run as" > "JUnit Test".
+     6.	Right click on pom.xml file and Run as Maven install (It will run the suite and creates the jar)
 The automation suite will now run, and you can view the test execution results in the IDE's JUnit runner.
 
 ## Reporting
