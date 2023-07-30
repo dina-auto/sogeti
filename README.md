@@ -1,1 +1,22 @@
 # sogeti
+This repository contains a Java-based automation project using Selenium, Cucumber, JUnit, Apache POI, RestAssured and Maven. The project is designed to perform end-to-end automated testing of a web application and API automation.
+
+Prerequisites
+Before you get started, make sure you have the following installed on your machine:
+
+Java Development Kit (JDK) - Version 8 or higher
+Apache Maven - Version 3.6.x or higher
+An Integrated Development Environment (IDE) such as Eclipse or IntelliJ IDEA
+
+Getting Started
+To get started with the project, follow these steps:
+
+Clone the repository to your local machine:
+Open the project in Eclipse IDE.
+Ensure that the required dependencies are resolved by running Maven's clean and install goals
+Open the TestRunner.java class located at src/test/java/runner/TestRunner.java 
+Right-click on the class and select "Run as" > "JUnit Test".
+The automation suite will now run, and you can view the test execution results in the IDE's JUnit runner.
+
+Reporting
+Test execution reports are generated automatically using Cucumber's built-in reporting feature. After running the tests, you can find the HTML reports in the target/cucumber-reports directory.
