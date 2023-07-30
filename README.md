@@ -4,9 +4,9 @@ This repository contains a Java-based automation project using Selenium, Cucumbe
 ## Prerequisites
 Before you get started, make sure you have the following installed on your machine:
 
-Java Development Kit (JDK) - Version 8 or higher
-Apache Maven - Version 3.6.x or higher
-An Integrated Development Environment (IDE) such as Eclipse or IntelliJ IDEA
+* Java Development Kit (JDK) - Version 8 or higher
+* Apache Maven - Version 3.6.x or higher
+* An Integrated Development Environment (IDE) such as Eclipse or IntelliJ IDEA
 
 ## Getting Started
 
