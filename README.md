@@ -11,11 +11,11 @@ An Integrated Development Environment (IDE) such as Eclipse or IntelliJ IDEA
 ## Getting Started
 
 To get started with the project, follow these steps:
-    1.	Clone the repository to your local machine:
-    2.	Open the project in Eclipse IDE.
-    3.	Ensure that the required dependencies are resolved by running Maven's clean and install goals
-    4.	Open the TestRunner.java class located at src/test/java/runner/TestRunner.java 
-    5.	Right-click on the class and select "Run as" > "JUnit Test".
+   - 1.	Clone the repository to your local machine:
+   - 2.	Open the project in Eclipse IDE.
+   - 3.	Ensure that the required dependencies are resolved by running Maven's clean and install goals
+   - 4.Open the TestRunner.java class located at src/test/java/runner/TestRunner.java 
+   - 5.	Right-click on the class and select "Run as" > "JUnit Test".
 The automation suite will now run, and you can view the test execution results in the IDE's JUnit runner.
 
 ## Reporting
