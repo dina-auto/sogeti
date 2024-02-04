@@ -1,6 +1,7 @@
 # Sogeti Automation 
 This repository contains a Java-based automation project using Selenium, Cucumber, JUnit, Apache POI, RestAssured and Maven. The project is designed to perform end-to-end automated testing of a web application and API automation.
 # Testing
+# Commit for example
 ## Prerequisites
 Before you get started, make sure you have the following installed on your machine:
 
